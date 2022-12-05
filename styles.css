@@ -5,3 +5,14 @@ background-color: aquamarine;
 h1{
     font-family: Tahoma, Georgia, sans-serif;
 }
+.article-one{
+    color: #17202A;
+    font-family: Tahoma, Georgia, sans-serif;
+}
+.article-two{
+    color: #1C2833;
+    font-family: Tahoma, Georgia, sans-serif;
+}
+#article-three{
+    color:#FF69B4;
+}
